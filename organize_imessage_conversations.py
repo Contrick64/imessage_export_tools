@@ -3,7 +3,7 @@ import datetime
 from re import search,findall
 from shutil import copy as shutil_copy
 
-# CHANGE THESE TO THE CORRECT FULL PATHS 
+# CHANGE THESE TO THE CORRECT PATHS
 input_dir_path = '../jf_imessages'
 output_dir_path = '../jf_imessages_sorted'
 
